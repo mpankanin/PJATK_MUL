@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PJATK_MUL:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PJATK_MUL_jar</output-path>
+    <root id="archive" name="PJATK_MUL.jar">
+      <element id="module-output" name="PJATK_MUL" />
+    </root>
+  </artifact>
+</component>
